@@ -1,7 +1,7 @@
 hai 
 This is the first comment
 
-This is for learning 
+This is for learning nn
 
 Added one more line git is distributed
 

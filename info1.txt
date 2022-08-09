@@ -1,1 +1,1 @@
-welcome to the devops , git
+welcome to the devops , git is distributed

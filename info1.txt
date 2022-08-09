@@ -3,3 +3,5 @@ welcome to the devops , git is distributed
 Git is important
 
 Git is comprehensive
+
+Git is distributed
